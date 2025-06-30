@@ -8,7 +8,7 @@ I'm **Isun Rupawansha**, a passionate developer and tech enthusiast. I love buil
 
 - 🌱 **Currently Learning:** Always exploring new tech stacks, frameworks, and best practices.
 - 💡 **Interests:** Software development, open-source contributions, problem solving, and innovation.
-- 📫 **Contact Me:** [Connect on LinkedIn](https://www.linkedin.com/in/isun-rupawansha/) | [Email Me](mailto:isunrupawansha@gmail.com)
+- 📫 **Contact Me:** [Connect on LinkedIn](https://www.linkedin.com/in/isun-rupawansha-0ab47a316/) | [Email Me](mailto:srupawansha@gmail.com)
 
 ## 📂 My Repositories
 
