@@ -27,7 +27,6 @@ I'm **Isun Rupawansha**, a passionate developer and tech enthusiast. I love buil
 
 ## 📊 GitHub Stats
 
-![Isun Rupawansha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsunRupawansha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsunRupawansha&layout=compact&theme=radical)
 
 ## 🌟 Featured Projects
